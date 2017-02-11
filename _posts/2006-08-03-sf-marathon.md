@@ -4,8 +4,8 @@ title: sf marathon
 date: 2006-08-03T22:06:58+00:00
 author: arisamuel
 layout: post
-guid: https://ariak.wordpress.com/2006/08/03/sf-marathon/
-permalink: /?p=59
+permalink: /sf-marathon
+<!-- permalink: /?p=59 -->
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
 original_post_id:

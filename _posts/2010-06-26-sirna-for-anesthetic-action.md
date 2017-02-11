@@ -4,8 +4,8 @@ title: 'Using SiRNA to elucidate inhaled anesthetic action &#8211; experiment de
 date: 2010-06-26T15:51:48+00:00
 author: arisamuel
 layout: post
-guid: http://www.diffusionreactor.com/?p=755
-permalink: /?p=755
+<!-- guid: http://www.diffusionreactor.com/?p=755 -->
+permalink: /Using SiRNA to elucidate inhaled anesthetic action
 ks_metadata:
   - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:0:"";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:0:"";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
 kdc_metadata:

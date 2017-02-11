@@ -4,8 +4,8 @@ title: cell clips
 date: 2006-07-28T23:47:30+00:00
 author: arisamuel
 layout: post
-guid: https://ariak.wordpress.com/2006/07/28/cell-clips/
-permalink: /?p=57
+<!-- guid: /cell-clips/ -->
+permalink: /cell-clips
 original_post_id:
   - "57"
 categories:

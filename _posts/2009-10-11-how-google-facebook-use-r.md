@@ -5,7 +5,7 @@ date: 2009-10-11T14:52:13+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1492
-permalink: /?p=1492
+permalink: /How Google &amp; Facebook use R'
 original_post_id:
   - "1492"
 categories:

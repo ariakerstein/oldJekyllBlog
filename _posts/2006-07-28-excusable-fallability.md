@@ -4,8 +4,8 @@ title: diving into death
 date: 2006-07-28T23:09:31+00:00
 author: arisamuel
 layout: post
-guid: https://ariak.wordpress.com/2006/07/28/excusable-fallability/
-permalink: /?p=56
+permalink: /excusable-fallability
+<!-- permalink: /?p=56 -->
 original_post_id:
   - "56"
 categories:

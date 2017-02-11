@@ -5,7 +5,7 @@ date: 2010-08-16T21:57:57+00:00
 author: arisamuel
 layout: post
 guid: http://ariak.wordpress.com/?p=592
-permalink: /?p=592
+permalink: /brain-scan
 kdc_metadata:
   - 'a:1:{s:4:"lang";s:2:"en";}'
 ks_metadata:

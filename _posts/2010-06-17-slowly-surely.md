@@ -5,7 +5,7 @@ date: 2010-06-17T19:09:17+00:00
 author: arisamuel
 layout: post
 guid: http://ariak.wordpress.com/?p=543
-permalink: /?p=543
+permalink: /slowly-surely
 original_post_id:
   - "543"
 categories:

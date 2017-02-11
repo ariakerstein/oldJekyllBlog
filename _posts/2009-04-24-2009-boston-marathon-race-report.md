@@ -4,8 +4,8 @@ title: 2009 Boston Marathon Race Report
 date: 2009-04-24T07:55:57+00:00
 author: arisamuel
 layout: post
-guid: http://www.diffusionreactor.com/?p=975
-permalink: /?p=975
+<!-- guid: http://www.diffusionreactor.com/?p=975 -->
+permalink: /2009-Boston-Marathon-Race-Report
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
 ks_metadata:

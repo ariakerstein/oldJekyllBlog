@@ -5,7 +5,7 @@ date: 2008-09-26T09:54:03+00:00
 author: arisamuel
 layout: post
 guid: http://ariak.wordpress.com/?p=120
-permalink: /?p=120
+permalink: /notes-2008-Boston-marathon
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
 original_post_id:
