@@ -9,7 +9,7 @@ permalink: ariak.wordpress.com/2006/07/28/officically-signed-up-for-sf-marathon/
 original_post_id:
   - "54"
 categories:
-  - Uncategorized
+  - running
 ---
 <img src="https://i1.wp.com/ariak.files.wordpress.com/2006/07/3.thumbnail.jpeg?resize=128%2C96" alt="3.jpeg" align="top" data-recalc-dims="1" /><img src="https://i1.wp.com/www.diffusionreactor.com/wp-content/uploads/2006/07/2-150x150.jpg?resize=128%2C96" alt="2.jpeg" data-recalc-dims="1" /><img src="https://i0.wp.com/www.diffusionreactor.com/wp-content/uploads/2006/07/5-150x150.jpg?resize=127%2C96" alt="5.jpeg" data-recalc-dims="1" /><img src="https://i0.wp.com/www.diffusionreactor.com/wp-content/uploads/2006/07/1-150x150.jpg?resize=128%2C96" alt="1.jpeg" data-recalc-dims="1" />
 
