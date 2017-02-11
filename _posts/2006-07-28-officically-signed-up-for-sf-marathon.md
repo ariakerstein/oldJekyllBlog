@@ -4,8 +4,8 @@ title: Officically signed up for SF marathon
 date: 2006-07-28T18:55:22+00:00
 author: arisamuel
 layout: post
-guid: https://ariak.wordpress.com/2006/07/28/officically-signed-up-for-sf-marathon/
-permalink: /?p=54
+permalink: ariak.wordpress.com/2006/07/28/officically-signed-up-for-sf-marathon/
+<!-- permalink: /?p=54 -->
 original_post_id:
   - "54"
 categories:
