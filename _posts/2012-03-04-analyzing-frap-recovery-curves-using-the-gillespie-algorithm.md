@@ -5,7 +5,7 @@ date: 2012-03-04T01:18:50+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=943
-permalink: /?p=943
+permalink: /Analyzing-FRAP-recovery-curves-using-Gillespie-algorithm
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'

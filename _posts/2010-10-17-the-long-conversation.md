@@ -5,7 +5,7 @@ date: 2010-10-17T17:51:44+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=622
-permalink: /?p=622
+permalink: /long-conversation
 ks_metadata:
   - |
     a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:57:"conversation,long,experience,feed,i've,live,time,actually";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:155:"conversation at the contemporary Jewish museum in SF: 19 speakers including Saul Griffith, Violet Blue, Stewart Brand, Peter Schwartz, Robin Sloan and many";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}

@@ -5,7 +5,7 @@ date: 2012-02-12T05:06:03+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1498
-permalink: /?p=1498
+permalink: /random-sampling-r
 original_post_id:
   - "1498"
 categories:

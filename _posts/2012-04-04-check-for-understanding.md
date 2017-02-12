@@ -6,7 +6,7 @@ author: arisamuel
 excerpt: Use stagger charts to become a more data-driven organization
 layout: post
 guid: http://www.diffusionreactor.com/?p=1012
-permalink: /?p=1012
+permalink: /Check yourself for understanding
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'

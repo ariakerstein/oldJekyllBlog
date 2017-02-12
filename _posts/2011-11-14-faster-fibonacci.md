@@ -5,7 +5,7 @@ date: 2011-11-14T21:45:51+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1868
-permalink: /?p=1868
+permalink: /fibonacci-in-pythnon
 original_post_id:
   - "1868"
 categories:

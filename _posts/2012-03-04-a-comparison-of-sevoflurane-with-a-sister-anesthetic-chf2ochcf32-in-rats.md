@@ -4,8 +4,7 @@ title: A Comparison of Sevoflurane with a Sister Anesthetic, CHF2OCH(CF3)2 in Ra
 date: 2012-03-04T10:08:00+00:00
 author: arisamuel
 layout: post
-guid: http://www.diffusionreactor.com/?p=955
-permalink: /?p=955
+permalink: /Comparison-of-Sevoflurane-with-Sister-Anesthetic-in-Rats/
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'

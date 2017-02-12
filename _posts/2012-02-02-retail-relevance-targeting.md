@@ -4,8 +4,8 @@ title: Retail relevance targeting
 date: 2012-02-02T18:19:53+00:00
 author: arisamuel
 layout: post
-guid: http://www.diffusionreactor.com/?p=999
-permalink: /?p=999
+guid: retail-relevance-targeting
+<!-- permalink: /?p=999 -->
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
 ks_metadata:

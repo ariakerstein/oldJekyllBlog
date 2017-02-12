@@ -5,7 +5,7 @@ date: 2012-07-13T06:00:18+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1519
-permalink: /?p=1519
+permalink: /The feeling of not knowing
 original_post_id:
   - "1519"
 categories:

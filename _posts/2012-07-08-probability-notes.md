@@ -5,7 +5,7 @@ date: 2012-07-08T06:58:02+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1362
-permalink: /?p=1362
+permalink: /probability-notes
 original_post_id:
   - "1362"
 categories:

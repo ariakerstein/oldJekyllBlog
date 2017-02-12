@@ -5,7 +5,7 @@ date: 2012-06-01T10:54:30+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=2134
-permalink: /?p=2134
+permalink: /Using the R Lattice package for data analysis
 original_post_id:
   - "2134"
 geo_public:

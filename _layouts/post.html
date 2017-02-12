@@ -11,7 +11,7 @@ layout: default
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}<br>
-    {{ page.categories | join: ', ' }}
+    Tagged with: {{ page.categories | join: ', ' }}
   </div>
 
   {% include disqus.html %}
