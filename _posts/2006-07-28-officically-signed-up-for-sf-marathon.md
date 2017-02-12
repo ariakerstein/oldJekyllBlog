@@ -4,7 +4,7 @@ title: Officically signed up for SF marathon
 date: 2006-07-28T18:55:22+00:00
 author: arisamuel
 layout: post
-permalink: /officically-signed-up-for-sf-marathon/
+<!-- permalink: /officically-signed-up-for-sf-marathon/ -->
 <!-- permalink: /?p=54 -->
 original_post_id:
   - "54"
