@@ -4,7 +4,7 @@ title: Satisfaction of being an entrepreneur
 date: 2013-03-10T21:39:37+00:00
 author: arisamuel
 layout: post
-guid: http://www.directedattention.com/?p=2114
+<!-- guid: http://www.directedattention.com/?p=2114 -->
 permalink: /satisfaction-of-entrepreneurship
 original_post_id:
   - "2114"
@@ -12,8 +12,8 @@ geo_public:
   - "0"
 categories:
   - Entrepreneurship
-  - Product Cookbook
-  - Uncategorized
+<!--   - Product Cookbook
+  - Uncategorized -->
 tags:
   - entrepreneurship
 ---
