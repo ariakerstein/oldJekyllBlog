@@ -5,7 +5,7 @@ date: 2009-04-24T07:55:57+00:00
 author: arisamuel
 layout: post
 <!-- guid: http://www.diffusionreactor.com/?p=975 -->
-<!-- permalink: /2009-Boston-Marathon-Race-Report -->
+permalink: /2009-Boston-Marathon-Race-Report
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
 ks_metadata:
@@ -15,8 +15,7 @@ kdc_metadata:
 original_post_id:
   - "975"
 categories:
-  - FItness
-  - Uncategorized
+  - Fitness
 ---
 The day begins at 4:30. I must have eaten more than I can remember the previous night. I cooked up a vat of pasta, garlic bread and salad for a few folks including some fellow K-star runners. We watch chariots of fire on the 40&#8243; screen while shoveling the food down.
 
