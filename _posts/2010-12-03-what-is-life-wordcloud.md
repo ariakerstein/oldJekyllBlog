@@ -5,7 +5,7 @@ date: 2010-12-03T14:37:32+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=673
-permalink: /?p=673
+permalink: /what-is-life-wordcloud/
 ks_metadata:
   - |
     a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:21:"called,life,like,time";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:159:"called Wordle. Ever the time saver, I plugged in one of the books I like - in this case Schrodinger's excellent essay called what is life? So if you don't have";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}

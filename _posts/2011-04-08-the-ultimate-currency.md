@@ -5,7 +5,7 @@ date: 2011-04-08T04:31:29+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=730
-permalink: /?p=730
+permalink: /the-ultimate-currency/
 ks_metadata:
   - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:0:"";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:0:"";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
 kdc_metadata:

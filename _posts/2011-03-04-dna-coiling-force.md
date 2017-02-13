@@ -5,7 +5,7 @@ date: 2011-03-04T03:44:21+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=963
-permalink: /?p=963
+permalink: /dna-coiling-force/
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'

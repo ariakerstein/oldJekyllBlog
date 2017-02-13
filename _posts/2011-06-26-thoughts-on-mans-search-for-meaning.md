@@ -4,8 +4,8 @@ title: 'Thoughts on &#8220;Man&#8217;s Search for Meaning&#8221;'
 date: 2011-06-26T02:07:33+00:00
 author: arisamuel
 layout: post
-guid: http://www.diffusionreactor.com/?p=751
-permalink: /?p=751
+<!-- guid: http://www.diffusionreactor.com/?p=751 -->
+permalink: /review-manss-search-for-meaning-frankl
 ks_metadata:
   - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:65:"life,sin,meaning,opportunity,responsibility,world,absence,affects";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:158:"life will pass in a flash What is the meaning? what is the direction that keeps you from drifting in the currents of proximity? Viktor Frankl frames the issue";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
 kdc_metadata:

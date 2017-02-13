@@ -5,7 +5,7 @@ date: 2010-12-24T18:46:31+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=692
-permalink: /?p=692
+permalink: /meme-volution/
 ks_metadata:
   - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:60:"influence,memes,future,sense,evolutionary,genes,human,humans";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:157:"influence. In the jungle, strength, speed, antler size, feather color and so forth allow a beast to influence female mating behavior - the main criteria that";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
 kdc_metadata:

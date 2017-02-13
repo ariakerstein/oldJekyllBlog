@@ -5,7 +5,7 @@ date: 2010-11-14T07:32:47+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=653
-permalink: /?p=653
+permalink: /how-the-mind-works-pinker
 ks_metadata:
   - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:17:"book,reading,just";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:144:"book is far too dense to regurgitate here. I had put the book down for months at a time, to pick up (mostly when I had nothing better to do) and";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
 kdc_metadata:

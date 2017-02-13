@@ -5,7 +5,7 @@ date: 2011-01-25T23:49:20+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=706
-permalink: /?p=706
+permalink: /seth-godin-list-to-generate-traffic
 ks_metadata:
   - |
     a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:50:"write,blog,posts,readers,don't,include,people,post";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:158:"write posts that need to be read right now. Learn enough to become the expert in your field. Break news. Be timeless... write posts that will be readable in a";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}
@@ -17,7 +17,7 @@ gwo4wp:
 original_post_id:
   - "706"
 categories:
-  - Uncategorized
+  - growth
 ---
 ### How to get traffic for your blog
 
