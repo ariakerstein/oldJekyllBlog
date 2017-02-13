@@ -5,7 +5,7 @@ date: 2012-11-11T03:33:10+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1851
-permalink: /?p=1851
+permalink: /encouragement-learning-to-walk
 enclosure:
   - |
     http://www.directedattention.com/wp-content/uploads/2012/11/20121110-193154.mov

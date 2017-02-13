@@ -5,7 +5,7 @@ date: 2012-12-19T03:29:04+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1899
-permalink: /?p=1899
+permalink: /family-candids
 original_post_id:
   - "1899"
 categories:

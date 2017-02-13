@@ -5,7 +5,7 @@ date: 2013-01-01T23:39:35+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1931
-permalink: /?p=1931
+permalink: /teach-non-verbals
 original_post_id:
   - "1931"
 categories:

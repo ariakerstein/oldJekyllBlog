@@ -5,7 +5,7 @@ date: 2012-11-10T20:25:55+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1843
-permalink: /?p=1843
+permalink: /saul-brunch
 original_post_id:
   - "1843"
 categories:

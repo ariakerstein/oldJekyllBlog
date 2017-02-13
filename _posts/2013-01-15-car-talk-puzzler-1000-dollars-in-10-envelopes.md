@@ -5,7 +5,7 @@ date: 2013-01-15T02:03:35+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=2069
-permalink: /?p=2069
+permalink: /car-talk-puzzler-1000-envelopes
 original_post_id:
   - "2069"
 categories:

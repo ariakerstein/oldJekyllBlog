@@ -5,7 +5,7 @@ date: 2013-02-20T14:53:43+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=2106
-permalink: /?p=2106
+permalink: /why-i-left-science
 original_post_id:
   - "2106"
 categories:

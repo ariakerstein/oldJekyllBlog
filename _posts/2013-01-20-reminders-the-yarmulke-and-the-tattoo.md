@@ -5,7 +5,7 @@ date: 2013-01-20T14:08:55+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=2011
-permalink: /?p=2011
+permalink: /reminders-yarmulke-tattoo
 original_post_id:
   - "2011"
 categories:

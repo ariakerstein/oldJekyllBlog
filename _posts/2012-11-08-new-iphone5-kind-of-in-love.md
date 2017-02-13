@@ -5,7 +5,7 @@ date: 2012-11-08T22:20:44+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1820
-permalink: /?p=1820
+permalink: /new-iphone-5
 original_post_id:
   - "1820"
 categories:

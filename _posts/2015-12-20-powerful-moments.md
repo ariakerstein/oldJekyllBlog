@@ -5,7 +5,7 @@ date: 2015-12-20T20:47:21+00:00
 author: arisamuel
 layout: post
 guid: http://directedattention.com/?p=2301
-permalink: /?p=2301
+permalink: /powerful-moments
 image: /wp-content/uploads/2015/12/snatch.jpg
 categories:
   - life optimizing

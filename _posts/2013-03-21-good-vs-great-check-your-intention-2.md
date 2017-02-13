@@ -5,7 +5,7 @@ date: 2013-03-21T08:43:45+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=2125
-permalink: /?p=2125
+permalink: /check-your-intention
 original_post_id:
   - "2125"
 categories:
