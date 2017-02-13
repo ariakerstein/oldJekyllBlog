@@ -1,16 +1,16 @@
 ---
-id: 2200
+<!-- id: 2200 -->
 title: The road ahead
-date: 2013-08-05T22:57:47+00:00
-author: arisamuel
+<!-- date: 2013-08-05T22:57:47+00:00
+author: arisamuel -->
 layout: post
-guid: http://www.directedattention.com/?p=2200
+<!-- guid: http://www.directedattention.com/?p=2200
 permalink: /?p=2200
 original_post_id:
   - "2200"
 categories:
   - fatherhood
-  - Uncategorized
+  - Uncategorized -->
 ---
 We have a long way to go and I plan to enjoy all of it. What a privilege it is to be your father.
 

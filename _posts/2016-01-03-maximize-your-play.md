@@ -5,7 +5,7 @@ date: 2016-01-03T00:37:23+00:00
 author: arisamuel
 layout: post
 guid: http://directedattention.com/?p=2313
-permalink: /?p=2313
+permalink: /maximize-your-play
 image: /wp-content/uploads/2016/11/images.jpg
 categories:
   - life optimizing

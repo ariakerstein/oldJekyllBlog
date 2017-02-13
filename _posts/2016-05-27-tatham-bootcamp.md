@@ -4,8 +4,8 @@ title: Tatham bootcamp
 date: 2016-05-27T17:16:13+00:00
 author: arisamuel
 layout: post
-guid: http://directedattention.com/?p=2391
-permalink: /?p=2391
+<!-- guid: http://directedattention.com/?p=2391 -->
+permalink: /tatham-bootcamp/
 geo_public:
   - "0"
 categories:
