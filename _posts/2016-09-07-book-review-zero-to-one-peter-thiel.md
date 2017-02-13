@@ -6,7 +6,7 @@ author: arisamuel
 excerpt: Notes on Zero to One, Peter Thiel
 layout: post
 guid: http://directedattention.com/?p=2686
-permalink: /?p=2686
+permalink: /review-zero-to-one
 image: /wp-content/uploads/2016/11/imgres-1.jpg
 categories:
   - Entrepreneurship

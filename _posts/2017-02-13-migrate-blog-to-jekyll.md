@@ -1,8 +1,5 @@
 ---
-id: 755
-title: 'Using SiRNA to elucidate inhaled anesthetic action &#8211; experiment design'
-date: 2010-06-26T15:51:48+00:00
-author: arisamuel
+title: 'Migrating blog from Wordpress to Jekyll'
 layout: post
 permalink: /migrating-blog-to-jekyll-from-wordpress/
 categories:
