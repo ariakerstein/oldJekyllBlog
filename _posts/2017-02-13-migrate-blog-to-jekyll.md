@@ -1,6 +1,7 @@
 ---
 title: 'Migrating blog from Wordpress to Jekyll'
 layout: post
+date: 2017-02-13
 permalink: /migrating-blog-to-jekyll-from-wordpress/
 categories:
   - Science, Experiments and Technical Stuff

@@ -8,9 +8,8 @@ permalink: /5-hot-tips-to-reduce-information-overload-with-evernote/
 categories:
   - Uncategorized
 ---
-<h1 class="p-name">5 hot tips to reduce information overload with Evernote</h1>
-</header>
-<section>
+
+
 The most valuable asset of a 21st-century institution (whether business or nonbusiness) will be its knowledge workers and their…
 <!-- </section>
 <section data-field="body" class="e-content">
