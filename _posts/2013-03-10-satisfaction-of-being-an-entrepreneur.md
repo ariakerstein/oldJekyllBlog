@@ -12,8 +12,7 @@ geo_public:
   - "0"
 categories:
   - Entrepreneurship
-<!--   - Product Cookbook
-  - Uncategorized -->
+
 tags:
   - entrepreneurship
 ---
