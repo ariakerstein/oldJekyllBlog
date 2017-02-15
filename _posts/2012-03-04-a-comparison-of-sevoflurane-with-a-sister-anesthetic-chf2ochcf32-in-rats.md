@@ -18,7 +18,6 @@ geo_public:
   - "0"
 categories:
   - Science, Experiments and Technical Stuff
-  - Uncategorized
 tags:
   - anesthesia
   - bioinformatics
@@ -26,8 +25,8 @@ tags:
   - experiments
   - genetics
 ---
-A paper I wrote while working as a molecular biologist researcher at UCSF exploring the possibility of brain metabolite formation in response to inhaled anesthetics. This is important, in part, since there is a link between exposure to these agents and cognitive impairment in children.
+Here's a paper I wrote while working as a molecular biologist researcher at UCSF exploring the possibility of brain metabolite formation in response to inhaled anesthetics. This is important, in part, since there is a link between exposure to these agents and cognitive impairment in children. 
   
-This study also compares performance of sevoflurane, one of the most popular inhaled anesthetics, to a structurally similar (one atom difference!) variant that offers some promising anesthetic benefits.
+This study also compares performance of sevoflurane, one of the most popular inhaled anesthetics on earth, to a structurally similar (one atom difference!) variant that offers some promising anesthetic benefits.
 
 [HFIP_A comparison-3](http://www.samuelakerstein.com/wp-content/uploads/2012/03/hfip_a-comparison-3.pdf)

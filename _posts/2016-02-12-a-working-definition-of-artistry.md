@@ -5,7 +5,7 @@ date: 2016-02-12T04:42:03+00:00
 author: arisamuel
 layout: post
 guid: http://directedattention.com/?p=2362
-permalink: /?p=2362
+permalink: /working-definition-artistry
 categories:
   - Uncategorized
 ---

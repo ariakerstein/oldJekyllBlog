@@ -5,7 +5,7 @@ date: 2011-03-04T03:44:21+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=963
-permalink: /dna-coiling-force/
+permalink: /dna-coiling-force
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
@@ -17,7 +17,6 @@ original_post_id:
   - "963"
 categories:
   - Science, Experiments and Technical Stuff
-  - Uncategorized
 ---
 Notes from a journal club presentation I gave to the Mathematics, Chemistry and Molecular Biology faculty in 2007. This was an elegant study, called on the effect of Force on Mononucleosomal Dynamics. Basically the investigators used optical tweezers to perturb DNA to see about the coiling forces involved in wrapping and unwrapping DNA. This is important since DNA &#8211; which is often coiled or otherwise folded &#8211; must be accessed with very specific timing for things like genes to be transcribed to make functional proteins out of them.
 

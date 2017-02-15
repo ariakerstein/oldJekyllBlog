@@ -5,12 +5,11 @@ date: 2011-03-13T16:34:20+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1524
-permalink: /?p=1524
+permalink: /python-script-loop-over-a-list
 original_post_id:
   - "1524"
 categories:
   - scripts
-  - Uncategorized
 tags:
   - python
   - scripts

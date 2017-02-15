@@ -5,7 +5,7 @@ date: 2015-08-04T02:24:43+00:00
 author: arisamuel
 layout: post
 guid: https://arisamuel.wordpress.com/2015/08/04/boys-in-the-backyard/
-permalink: /?p=2274
+permalink: /boston-trip
 categories:
   - Uncategorized
 ---

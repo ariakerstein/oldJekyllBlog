@@ -5,7 +5,7 @@ date: 2012-05-14T21:04:23+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=1157
-permalink: /?p=1157
+permalink: /becoming-a-father
 original_post_id:
   - "1157"
 categories:
