@@ -39,6 +39,11 @@
       {{ content }}
     </div>
 
+    <div class="date">
+      Written on {{ page.date | date: "%B %e, %Y" }}<br>
+      Tagged with: {{ page.categories | join: ', ' }}
+    </div>
+
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
