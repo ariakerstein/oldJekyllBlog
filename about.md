@@ -17,3 +17,11 @@ I use this space to share updates on Product management, essays I&#8217;m devel
   * Find me on Strava: [strava](https://www.strava.com/athletes/6974948)
   * Race results: <a href="http://registration.baa.org/cfm_Archive/iframe_ArchiveSearch.cfm?mode=results&RequestTimeout=600&snap=66622361&" target="_blank">Boston Marathon</a> and other [races](https://www.runraceresults.com/Secure/RaceResults.cfm?ID=RCLF2016),
   * My latest fun project is building the future of attention. Get on the waitlist: [Distraqt](http://directedattention.com/)
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
