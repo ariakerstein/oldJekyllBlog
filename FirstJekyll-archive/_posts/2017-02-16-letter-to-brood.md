@@ -1,6 +1,7 @@
 ---
   layout: post
-  title: "Letter to Kids: 2017-02-15"
+  title: Letter to Kids: 2017-02-15
+  tags: 
   categories: fatherhood
   permalink: /letter-to-kids-2017-02-15
 ---
