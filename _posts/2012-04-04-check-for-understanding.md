@@ -6,7 +6,7 @@ author: arisamuel
 excerpt: Use stagger charts to become a more data-driven organization
 layout: post
 guid: http://www.diffusionreactor.com/?p=1012
-permalink: /Check yourself for understanding
+permalink: /Check-yourself-for-understanding
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
@@ -19,18 +19,16 @@ original_post_id:
 categories:
   - life optimizing
   - Product Cookbook
-  - Uncategorized
 ---
 What many leaders call understanding is often times something else &#8211; a parroting of information e.g., some blog post they read somewhere. This is human nature. Rates of information upload vs. synthesis (e.g., we read much without proper time to process it all fully) are unfavorable &#8211; we&#8217;re moving ever closer to some asymptotic mode of existence where we&#8217;re literally always online. So it&#8217;s good to build in processes to keep ourselves honest.
 
 To understand is to have the ability to predict. And to _really_ understand a thing &#8211; to discover &#8211; is to extend prediction beyond the horizon of others. Bless those who codified the rules for the rest of us so we can stand on their shoulders. Sometimes the understanding is axiomatic: think Newton&#8217;s laws; and sometimes its intuitive: think Steve jobs&#8217; knack for product development. But the persistent theme I&#8217;ve noticed in myself irrespective the content, is the drive &#8211; ok, a pathological obsession &#8211; to define those rules.
 
-An game I sometimes will play with myself is to take some topic and check my understanding based on my predictions. Getting explicit really helps clear the fog around some areas. So for example I will ask:
+A game I sometimes will play with myself is to take some topic and check my understanding based on my predictions. Getting explicit really helps clear the fog around some areas. So for example I will ask:
 
   * What can you predict what will happen next/tomorrow.
-  * What can you predict that your peers cannot? Then ask:
-  * &#8230;_How did you know?_
-  * Can you repeat this prediction or was it luck?
+  * What can you predict that your peers cannot? Then ask: How did you know? Can you define it?
+  * - Can you repeat this prediction or was it luck?
   * If it was repeatable, how would you communicate the rule to someone else?
   * How can you use this to achieve your goals. How can you outsmart the competition?
 

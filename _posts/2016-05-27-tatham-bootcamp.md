@@ -10,7 +10,6 @@ geo_public:
   - "0"
 categories:
   - Product Cookbook
-  - Uncategorized
 ---
 Feeling honored to have been selected as part of a product leadership group @WalmartLabs to complete a 3 day product bootcamp led by the [Tatham Group](http://tathamgroup.com/our-story/about-boot-camp/). This is the same group that helped NASA work through the [Hubble space telescope lens issue.](http://tathamgroup.com/communications/you-spin-me-right-around-baby-right-roundbreaking-free-from-the-cycle-of-recurring-business-problems/)<img class="alignnone size-medium wp-image-2433" src="https://i2.wp.com/www.samuelakerstein.com/wp-content/uploads/2016/05/image-300x225.jpg?fit=300%2C225" alt="Widgets" srcset="https://i0.wp.com/www.samuelakerstein.com/wp-content/uploads/2016/05/image.jpg?w=3264 3264w, https://i0.wp.com/www.samuelakerstein.com/wp-content/uploads/2016/05/image.jpg?resize=300%2C225 300w, https://i0.wp.com/www.samuelakerstein.com/wp-content/uploads/2016/05/image.jpg?resize=768%2C576 768w, https://i0.wp.com/www.samuelakerstein.com/wp-content/uploads/2016/05/image.jpg?resize=1024%2C768 1024w, https://i0.wp.com/www.samuelakerstein.com/wp-content/uploads/2016/05/image.jpg?w=1680 1680w, https://i0.wp.com/www.samuelakerstein.com/wp-content/uploads/2016/05/image.jpg?w=2520 2520w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />
 
