@@ -3,6 +3,7 @@
   title: Letter to Kids: 2017-02-15
   tags: 
   categories: fatherhood
+  permalink: /letter-to-kids-2017-02-15
 ---
 
 You kids complete me. You're too young to know what it means to be laid off but that's what happened a few weeks ago. You haven't thought to ask why I've been doing more pickup and dropoff recently? Or why I've been in a WAY better mood. Or spending more quality time with you. And I'm glad because being laid off stung for about a day and then I moved past it. I consider this the best gift I've received in a long time. Why? Because I feel strongly that this provided me an opportunity to re-pattern my mindset and orient towards you, towards genuine happiness. I was clearly biasing towards financial rewards. Perhaps that's what I needed to do to get us into a good position. I tell myself this and do think there's some truth in it. But I'll never do it again. You are too important to me. And my own lifeforce is too precious to trade for some coin. 
