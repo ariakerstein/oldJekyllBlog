@@ -5,7 +5,7 @@ date: 2010-03-04T02:48:00+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=959
-permalink: /?p=959
+permalink: /modeling-airline-data
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
