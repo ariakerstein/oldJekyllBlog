@@ -1,11 +1,11 @@
 ---
 id: 408
-title: 'Notes on Ferguson&#8217;s &#8216;The War of the World&#8217;'
+title: "Notes on Ferguson's The War of the World"
 date: 2009-12-30T02:03:36+00:00
 author: arisamuel
 layout: post
-guid: http://ariak.wordpress.com/?p=408
-permalink: /?p=408
+<!-- guid: http://ariak.wordpress.com/?p=408 -->
+permalink: /notes-on-niall-ferguson-war-of-the-world
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
 ks_metadata:
@@ -17,7 +17,7 @@ original_post_id:
   - "408"
 categories:
   - Reviews
-  - Uncategorized
+  - History
 tags:
   - Book Review
   - History

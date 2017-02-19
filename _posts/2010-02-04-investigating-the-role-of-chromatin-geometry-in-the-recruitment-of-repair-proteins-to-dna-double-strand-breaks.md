@@ -5,7 +5,7 @@ date: 2010-02-04T01:27:59+00:00
 author: arisamuel
 layout: post
 guid: http://www.diffusionreactor.com/?p=946
-permalink: /?p=946
+permalink: /role-of-chromatin-geometry-in-dna-double-strand-breaks
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
@@ -17,7 +17,6 @@ original_post_id:
   - "946"
 categories:
   - Science, Experiments and Technical Stuff
-  - Uncategorized
 tags:
   - bioinformatics
   - diffusion

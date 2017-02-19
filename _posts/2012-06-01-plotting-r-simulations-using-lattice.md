@@ -5,33 +5,33 @@ date: 2012-06-01T10:54:30+00:00
 author: arisamuel
 layout: post
 guid: http://www.directedattention.com/?p=2134
-permalink: /Using the R Lattice package for data analysis
+permalink: /Using-R-Lattice-package-for-data-analysis
 original_post_id:
   - "2134"
 geo_public:
   - "0"
 categories:
   - R
-  - Uncategorized
 ---
 R is this language I feel like I&#8217;ve had to re-learn like 10 times. Every time I stop for more than a month it&#8217;s like starting from scratch. Very annoying. So I can have a reference and stop repeating myself I&#8217;m finally putting some of this into posts. Hopefully if you find yourself in a similar situation this&#8217;ll help. The below analysis is based on a Coursera class in data modeling using R.
 
 Let&#8217;s first do a categorical break-out using the base package. We&#8217;ll separate groups of variables on a single scatter plot:
 
-[code language=&#8221;splus&#8221;]
-  
+{% highlight r %}
 y <- x + rnorm(100)
   
 g <- gl(2,50)
   
 g <-gl(2, 50, labels = c("male", "female"))
 
+{% endhighlight %}
 ##let&#8217;s check the structure
   
 str(g)
   
 \# Factor w/ 2 levels "male","female": 1 1 1 1 1 1 1 1 1 1 …
-  
+
+{% highlight r %}
 plot(x, y)
   
 plot(x, y, type = "n")
@@ -42,8 +42,10 @@ points(x[g== "female"], y[g=="female"], col = "blue", pch=19)
   
 title("break out male from female")
   
-[/code]
+{% endhighlight %}
 
+<!-- ![Ari headshot]({{ site.url }}/images/arihead.jpg) -->
+[categorical scatter plot using lattice]({{site.url}}/wp-content/uploads/2013/04/malevfem_basecharts-150x150.png)
 <a href="http://www.directedattention.com/research-and-code/r/plotting-r-simulations-using-lattice/attachment/malevfemalev2/" rel="attachment wp-att-2169"><img class="aligncenter size-medium wp-image-2169" src="http://www.directedattention.com/wp-content/uploads/2013/04/MaleVfemaleV2.tiff" alt="categorical scatter plot, base package" /></a>
 
 In contrast to the base graphics package, Lattice functions generate plots in one shot rather than building them up piecewise: xyplot, bwplot, histogram, stripplot, dotplot, splom (like pairs in base system), levelplot.
@@ -68,7 +70,7 @@ y ~ x | f * g
 
 The following example plots y vs x conditioned on f:
 
-[code language=&#8221;splus&#8221;]
+{% highlight r %}
   
 x <- rnorm(100)
   
@@ -78,14 +80,16 @@ f <- gl(2, 50, labels = c("group 1", "group 2"))
   
 xyplot(y ~ x | f)
   
-[/code]
+{% endhighlight %}
 
 <a href="http://www.directedattention.com/research-and-code/r/plotting-r-simulations-using-lattice/attachment/xyplot2/" rel="attachment wp-att-2171"><img class="aligncenter size-medium wp-image-2171" src="http://www.directedattention.com/wp-content/uploads/2013/04/xyplot2.tiff" alt="xyplot2" /></a>
 
 Let&#8217;s now do a little exploration of the environmental dataset. Here&#8217;s what it looks like:
-  
+
+{% highlight r %}
 > head(environmental)
-  
+ {% endhighlight %}
+ {% highlight r %}
 ozone radiation temperature wind
   
 1 41 190 67 7.4
@@ -99,12 +103,13 @@ ozone radiation temperature wind
 5 23 299 65 8.6
   
 6 19 99 59 13.8
+
+{% endhighlight %}
   
 <a href="http://www.directedattention.com/research-and-code/r/plotting-r-simulations-using-lattice/attachment/ozonevrad/" rel="attachment wp-att-2172"><img class="aligncenter size-medium wp-image-2172" src="http://www.directedattention.com/wp-content/uploads/2013/04/OzoneVrad.tiff" alt="ozone vs. radiation" /></a>
   
 Next, we&#8217;ll create a shingle variable. We&#8217;ll see shortly how useful this can be when using lattice for plotting.
-
-[code language=&#8221;splus&#8221;]
+ {% highlight r %}
   
 summary(environmental$temperature)
   
@@ -112,7 +117,7 @@ temp.cut <- equal.count(environmental$temperature, 4) # create s shingle variabl
   
 help(equal.count)
   
-[/code]
+{% endhighlight %}
 
 Below are some details from R help below on shingles:
 
@@ -122,11 +127,11 @@ Below are some details from R help below on shingles:
 
 Here&#8217;s what this shingle variable looks like:
 
-[code language=&#8221;splus&#8221;]
+ {% highlight r %}
   
 > temp.cut
   
-[/code]
+{% endhighlight %}
 
 Data:
   
@@ -156,45 +161,46 @@ Overlap between adjacent intervals:
   
 [1] 27 30 31
 
-[code language=&#8221;splus&#8221;]
+
   
 #next let&#8217;s plot ozone vs. radiation, conditioned on temp.cut
+
+ {% highlight r %}
   
 xyplot(ozone ~ radiation | temp.cut, data = environmental)
   
-[/code]
+{% endhighlight %}
 
 From the chart below we can see that the relationship between ozone and radiation is dependent on the temperature: the bottom left and right panels (in which temp is lowest and second lowest) show not much of a relationship, whereas the top left &#8211; and even more so the top right &#8211; shows an increasing relationship between radiation and ozone.
 
 <a href="http://www.directedattention.com/research-and-code/r/plotting-r-simulations-using-lattice/attachment/shinglesplot1v2/" rel="attachment wp-att-2175"><img class="aligncenter size-medium wp-image-2175" src="http://www.directedattention.com/wp-content/uploads/2013/04/ShinglesPlot1v2.tiff" alt="lattice shingle plot" /></a>
 
-[code language=&#8221;splus&#8221;]
   
 #let&#8217;s modify the layout to make it more intuitive &#8211; top-bottom layout, rather than quadrants.
   
+ {% highlight r %}
 xyplot(ozone ~ radiation | temp.cut, data = environmental, layout = c(1, 4))
-  
-[/code]
+{% endhighlight %}
 
 <a href="http://www.directedattention.com/research-and-code/r/plotting-r-simulations-using-lattice/attachment/shingleplot2/" rel="attachment wp-att-2151"><img class="aligncenter size-medium wp-image-2151" src="http://www.directedattention.com/wp-content/uploads/2013/04/ShinglePlot2.tiff" alt="shingle plot using R on environmental dataset" /></a>
 
-[code language=&#8221;splus&#8221;]
+ {% highlight r %}
   
 xyplot(ozone ~ radiation | temp.cut, data = environmental, layout = c(1, 4), as.table = TRUE)
   
 #orders from top to bottom, ascending by temperature &#8211; much better
   
-[/code]
+{% endhighlight %}
 
 <a href="http://www.directedattention.com/research-and-code/r/plotting-r-simulations-using-lattice/attachment/shingleplot3/" rel="attachment wp-att-2153"><img class="aligncenter size-medium wp-image-2153" src="http://www.directedattention.com/wp-content/uploads/2013/04/ShinglePlot3.tiff" alt="shingle plot reordered using R and lattice" /></a>
 
 Finally, we can modify the layout ordering of the first chart to make it more intuitive:
 
-[code language=&#8221;splus&#8221;]
+ {% highlight r %}
   
 > xyplot(ozone ~ radiation | temp.cut, data = environmental, layout = c(2, 2), as.table = TRUE)
   
-[/code]
+{% endhighlight %}
 
 <a href="http://www.directedattention.com/research-and-code/r/plotting-r-simulations-using-lattice/attachment/shingleplot4/" rel="attachment wp-att-2155"><img class="aligncenter size-medium wp-image-2155" src="http://www.directedattention.com/wp-content/uploads/2013/04/ShinglePlot4.tiff" alt="shingle plot using lattice and R on environmental dataset" /></a>
 
@@ -202,7 +208,7 @@ Next we will create a custom panel in which we add a regression line to each pan
 
 We can see from the panels below that as the temperature increases, so does the ozone level with respect to radiation….
 
-[code language=&#8221;splus&#8221;]
+ {% highlight r %}
   
 #create a custom panel function to add a regression line to each panel
   
@@ -216,13 +222,13 @@ fit panel.abline(fit)
          
 })
   
-[/code]
+{% endhighlight %}
 
 <a href="http://www.directedattention.com/research-and-code/r/plotting-r-simulations-using-lattice/attachment/shingleplot5/" rel="attachment wp-att-2158"><img class="aligncenter size-medium wp-image-2158" src="http://www.directedattention.com/wp-content/uploads/2013/04/ShinglePlot5.tiff" alt="shingle plot with regressions by panel" /></a>
 
 But on closer inspection it looks like panel 4 (bottom right) is non-linear. Let&#8217;s try this again using another function called loess (local polynomial regression fitting).
 
-[code language=&#8221;splus&#8221;]
+ {% highlight r %}
 
 xyplot(ozone ~ radiation | temp.cut, data = environmental, as.table = TRUE, pch=20,
          
@@ -236,13 +242,13 @@ panel.loess(x, y)
             
 main = "Ozone vs. Solar Radiation")
   
-[/code]
+{% endhighlight %}
 
 <a href="http://www.directedattention.com/research-and-code/r/plotting-r-simulations-using-lattice/attachment/shingleplot6/" rel="attachment wp-att-2160"><img class="aligncenter size-medium wp-image-2160" src="http://www.directedattention.com/wp-content/uploads/2013/04/ShinglePlot6.tiff" alt="regressions using polynomial fitting on shingles" /></a>
 
 Now it&#8217;s looking better. In the environmental data set we have another variable, wind. let&#8217;s put this all together including the wind variable.
 
-[code language=&#8221;splus&#8221;]
+ {% highlight r %}
   
 #first create a wind cut, similar to what we did with temp
   
@@ -262,7 +268,7 @@ panel.loess(x, y)
          
 main = "Ozone vs. Solar Radiation")
   
-[/code]
+{% endhighlight %}
 
 <a href="http://www.directedattention.com/research-and-code/r/plotting-r-simulations-using-lattice/attachment/shingleplot7/" rel="attachment wp-att-2162"><img class="aligncenter size-medium wp-image-2162" src="http://www.directedattention.com/wp-content/uploads/2013/04/ShinglePlot7.tiff" alt="regression on multiple shingles" /></a>
 

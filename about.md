@@ -6,6 +6,8 @@ permalink: /about/
 
 My name is Ari &#8211; thanks for visiting.
 
+<!-- ![Ari headshot]({{ site.url }}/images/arihead.jpg) -->
+
 I use this space to share updates on Product management, essays I&#8217;m developing, running, books I’m reading, and general lessons & observations I try to extract along the way. Here’s a short-list of useful links:
 
   * I invented COREwheels. Buy it [here](https://www.amazon.com/SKLZ-Wheels-Dynamic-Strength-Trainer/dp/B00C81JUS2) on Amazon.
