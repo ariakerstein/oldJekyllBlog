@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Ari Akerstein"
   avatar           : "/assets/images/arihead.jpg"
-  bio              : "Product guy. Molecular biologist. Father. Distance Runner."
+  bio              : "Product/growth guy. Molecular biologist. Father. Distance Runner."
   location         : "San Francisco"
   email            : "ariakerstein@gmail.com"
   uri              :
@@ -110,6 +110,7 @@ author:
 # Reading Files
 include:
   - .htaccess
+  - _pages
   - _pages
 exclude:
   - "*.sublime-project"
@@ -221,7 +222,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-include: ["_pages"]
 
 # HTML Compression
 # - http://jch.penibelst.de/
