@@ -3,7 +3,8 @@ id: 2069
 title: 'Car Talk Puzzler: 1000 dollars in 10 envelopes'
 date: 2013-01-15T02:03:35+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=2069
 permalink: /car-talk-puzzler-1000-envelopes
 original_post_id:

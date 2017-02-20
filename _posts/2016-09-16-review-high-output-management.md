@@ -4,7 +4,8 @@ title: 'Review: High Output Management'
 date: 2016-09-16T05:08:41+00:00
 author: arisamuel
 excerpt: Some notes on High Output Management by Andy Grove
-layout: post
+type: posts
+layout: single
 permalink: /notes-on-High-Output-Management-Andy-Grove
 <!-- permalink: /?p=2731 -->
 image: /wp-content/uploads/2016/11/imgres.jpg

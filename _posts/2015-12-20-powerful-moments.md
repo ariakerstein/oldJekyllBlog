@@ -3,7 +3,8 @@ id: 2301
 title: Powerful moments
 date: 2015-12-20T20:47:21+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://directedattention.com/?p=2301
 permalink: /powerful-moments
 image: /wp-content/uploads/2015/12/snatch.jpg

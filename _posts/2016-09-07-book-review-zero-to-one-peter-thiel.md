@@ -4,7 +4,8 @@ title: 'Book Review: Zero to One (Peter Thiel)'
 date: 2016-09-07T05:56:57+00:00
 author: arisamuel
 excerpt: Notes on Zero to One, Peter Thiel
-layout: post
+type: posts
+layout: single
 guid: http://directedattention.com/?p=2686
 permalink: /review-zero-to-one
 image: /wp-content/uploads/2016/11/imgres-1.jpg

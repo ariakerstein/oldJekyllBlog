@@ -1,10 +1,10 @@
 # main links
-main:
-  - title: "About"
-    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    url: 
-  - About: "About"
-    url: 
+# main:
+#   - title: "About"
+#     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#     url: 
+#   - About: "About"
+#     url: 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -13,3 +13,20 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+main:
+  - title: "About"
+    url: /about/
+  # - title: "Posts"
+  #   url: /year-archive/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  # - title: "Pages"
+  #   url: /page-archive/
+  # - title: "Collections"
+  #   url: /collection-archive/
+  # - title: "External Link"
+  #   url: https://google.com

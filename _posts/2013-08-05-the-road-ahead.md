@@ -3,7 +3,8 @@
 title: The road ahead
 <!-- date: 2013-08-05T22:57:47+00:00
 author: arisamuel -->
-layout: post
+type: posts
+layout: single
 <!-- guid: http://www.directedattention.com/?p=2200 -->
 permalink: /road-ahead
 original_post_id:

@@ -3,7 +3,8 @@ id: 963
 title: 'Bioinformatics presentation &#8211; investigating the forces involved in DNA folding'
 date: 2011-03-04T03:44:21+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=963
 permalink: /dna-coiling-force
 gwo4wp:

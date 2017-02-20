@@ -3,7 +3,8 @@ id: 957
 title: An in silico approach to modeling Gamma H2AX recruitment of repair proteins in response to double strand breaks
 date: 2009-06-04T02:17:59+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=957
 permalink: /?p=957
 gwo4wp:

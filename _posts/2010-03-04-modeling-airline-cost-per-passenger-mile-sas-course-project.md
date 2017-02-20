@@ -3,7 +3,8 @@ id: 959
 title: 'Modeling Airline Cost per passenger mile &#8211; SAS course project'
 date: 2010-03-04T02:48:00+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=959
 permalink: /modeling-airline-data
 gwo4wp:

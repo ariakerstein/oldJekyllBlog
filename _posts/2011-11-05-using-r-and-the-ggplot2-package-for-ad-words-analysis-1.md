@@ -3,7 +3,8 @@ id: 878
 title: Using R for PPC regression analysis
 date: 2011-11-05T21:27:09+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=878
 permalink: /?p=878
 gwo4wp:

@@ -3,7 +3,8 @@ id: 952
 title: 'Review: The Mechanism of Secondary Non-disjunction in Drosophila melanogaster Females'
 date: 2012-03-04T02:00:37+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=952
 permalink: /Secondary-non-disjunction-in-Drosophila-melanogaster
 gwo4wp:

@@ -3,7 +3,8 @@ id: 2114
 title: Satisfaction of being an entrepreneur
 date: 2013-03-10T21:39:37+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 <!-- guid: http://www.directedattention.com/?p=2114 -->
 permalink: /satisfaction-of-entrepreneurship
 original_post_id:

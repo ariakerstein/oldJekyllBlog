@@ -3,7 +3,8 @@ id: 2391
 title: Tatham bootcamp
 date: 2016-05-27T17:16:13+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 <!-- guid: http://directedattention.com/?p=2391 -->
 permalink: /tatham-bootcamp-walmartlabs/
 geo_public:

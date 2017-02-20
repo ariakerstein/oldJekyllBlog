@@ -3,7 +3,8 @@ id: 975
 title: 2009 Boston Marathon Race Report
 date: 2009-04-24T07:55:57+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 <!-- guid: http://www.diffusionreactor.com/?p=975 -->
 permalink: /2009-Boston-Marathon-Race-Report
 gwo4wp:

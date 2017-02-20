@@ -3,7 +3,8 @@ id: 81
 title: Akrowheels on the MSNBC; Today Show!
 date: 2006-12-11T09:33:59+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 permalink: /akrowheels-on-the-today-show
 <!-- permalink: /?p=81 -->
 gwo4wp:

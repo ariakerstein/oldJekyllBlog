@@ -2,8 +2,8 @@
 id: 80
 title: the CIM race report
 date: 2006-12-11T09:30:44+00:00
-author: arisamuel
-layout: post
+<!-- author: arisamuel -->
+<!-- layout: single -->
 <!-- guid: http://ariak.wordpress.com/2006/12/11/the-cim-race-report/ -->
 permalink: /the-cim-race-report/
 gwo4wp:
@@ -11,12 +11,25 @@ gwo4wp:
 original_post_id:
   - "80"
 categories:
-  - FItness
+  - Fitness
   - Reviews
-  - Uncategorized
 tags:
   - marathon
   - race report
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 ---
 Mon 12.4.06
   

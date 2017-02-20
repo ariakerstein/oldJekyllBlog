@@ -1,7 +1,8 @@
 ---
 title: 'Estimating diffusion parameters and the effects of dimensionality'
 author: arisamuel
-layout: post
+type: posts
+layout: single
 permalink: /estimating-diffusion-parameters
 categories: Science, Experiments and Technical Stuff
 tags:

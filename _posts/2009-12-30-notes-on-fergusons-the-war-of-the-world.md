@@ -1,9 +1,23 @@
 ---
+
+defaults:
+  # _posts
+  - scope:
+ <!--      path: "" -->
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+<!--       comments: true -->
+      share: true
+<!--       related: true -->
+      
 id: 408
 title: "Notes on Ferguson's The War of the World"
 date: 2009-12-30T02:03:36+00:00
 author: arisamuel
-layout: post
+<!-- layout: post -->
 <!-- guid: http://ariak.wordpress.com/?p=408 -->
 permalink: /notes-on-niall-ferguson-war-of-the-world
 gwo4wp:
@@ -13,8 +27,8 @@ ks_metadata:
     a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:52:"hitler,ideas,jews,ferguson,german,hitler's,war,aryan";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:157:"Hitler had a greater capacity to bomb civilian populations in England than indeed was the case (this should have been known false given the intelligence they";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}
 kdc_metadata:
   - 'a:1:{s:4:"lang";s:2:"en";}'
-original_post_id:
-  - "408"
+<!-- original_post_id:
+  - "408" -->
 categories:
   - Reviews
   - History
@@ -22,6 +36,7 @@ tags:
   - Book Review
   - History
   - War
+
 ---
 Having just completed the excellent study of the past century in war, &#8216;The War of the World&#8217; by Niall Ferguson, I though I&#8217;d jot down a few notes as much for my own recollection (of the 600+ pager) as well as for those interested.
   

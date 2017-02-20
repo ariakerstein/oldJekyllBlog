@@ -3,7 +3,8 @@ id: 999
 title: Retail relevance targeting
 date: 2012-02-02T18:19:53+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: retail-relevance-targeting
 <!-- permalink: /?p=999 -->
 gwo4wp:

@@ -4,7 +4,8 @@ title: The best way to NOT improve
 date: 2016-09-20T15:13:59+00:00
 author: arisamuel
 excerpt: The best way to not improve is to avoid feedback or operate in a vacuum.
-layout: post
+type: posts
+layout: single
 <!-- guid: http://directedattention.com/?p=2767 -->
 <!-- permalink: /?p=2767 -->
 image: /wp-content/uploads/2016/11/1497674878_ef43bb8af6.jpg

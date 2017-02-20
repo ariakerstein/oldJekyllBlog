@@ -3,7 +3,8 @@ id: 2362
 title: 'A working definition of artistry&#8230;'
 date: 2016-02-12T04:42:03+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://directedattention.com/?p=2362
 permalink: /working-definition-artistry
 categories:

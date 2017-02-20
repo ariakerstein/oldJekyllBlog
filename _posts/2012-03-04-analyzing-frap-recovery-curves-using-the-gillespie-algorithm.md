@@ -3,7 +3,8 @@ id: 943
 title: Analyzing FRAP recovery curves using the Gillespie algorithm
 date: 2012-03-04T01:18:50+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=943
 permalink: /Analyzing-FRAP-recovery-curves-using-Gillespie-algorithm
 gwo4wp:

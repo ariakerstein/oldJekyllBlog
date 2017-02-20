@@ -3,7 +3,8 @@ id: 543
 title: Slowly, Surely
 date: 2010-06-17T19:09:17+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://ariak.wordpress.com/?p=543
 permalink: /slowly-surely
 original_post_id:

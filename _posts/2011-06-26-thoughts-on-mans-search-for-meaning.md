@@ -3,7 +3,8 @@ id: 751
 title: 'Thoughts on &#8220;Man&#8217;s Search for Meaning&#8221;'
 date: 2011-06-26T02:07:33+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 <!-- guid: http://www.diffusionreactor.com/?p=751 -->
 permalink: /review-manss-search-for-meaning-frankl
 ks_metadata:

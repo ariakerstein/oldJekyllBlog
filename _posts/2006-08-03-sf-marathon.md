@@ -1,9 +1,22 @@
 ---
+<!-- defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true -->
+<!--       comments: true -->
+<!--       share: true -->
+
 id: 59
 title: sf marathon
 date: 2006-08-03T22:06:58+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 permalink: /sf-marathon
 <!-- permalink: /?p=59 -->
 gwo4wp:

@@ -3,7 +3,8 @@ id: 941
 title: Intelligent Process
 date: 2012-03-03T05:39:00+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=941
 permalink: /?p=941
 ks_metadata:

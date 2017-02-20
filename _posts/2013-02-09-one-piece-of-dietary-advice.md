@@ -3,7 +3,8 @@ id: 2066
 title: One piece of dietary advice
 date: 2013-02-09T12:50:54+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=2066
 permalink: /?p=2066
 original_post_id:

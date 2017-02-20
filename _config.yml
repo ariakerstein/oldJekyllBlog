@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :arisamuel
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ author:
   avatar           : "/assets/images/arihead.jpg"
   bio              : "Product guy. Molecular biologist"
   location         : "San Francisco"
-  email            :
+  email            : "ariakerstein@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ariakerstein/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -221,7 +221,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
+include: ["_pages"]
 
 # HTML Compression
 # - http://jch.penibelst.de/

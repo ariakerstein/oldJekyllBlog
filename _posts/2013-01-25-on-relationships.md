@@ -3,7 +3,8 @@ id: 2034
 title: On relationships
 date: 2013-01-25T09:24:56+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=2034
 permalink: /on-relationships
 original_post_id:

@@ -3,7 +3,8 @@ id: 946
 title: Investigating the role of chromatin geometry in the recruitment of repair proteins to DNA double strand breaks
 date: 2010-02-04T01:27:59+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=946
 permalink: /role-of-chromatin-geometry-in-dna-double-strand-breaks
 gwo4wp:

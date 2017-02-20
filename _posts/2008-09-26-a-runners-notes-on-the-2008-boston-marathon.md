@@ -3,7 +3,8 @@ id: 120
 title: 'A runner&#8217;s notes on the 2008 Boston marathon'
 date: 2008-09-26T09:54:03+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://ariak.wordpress.com/?p=120
 permalink: /notes-2008-Boston-marathon
 gwo4wp:

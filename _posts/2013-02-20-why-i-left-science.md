@@ -3,7 +3,8 @@ id: 2106
 title: Why I left science
 date: 2013-02-20T14:53:43+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=2106
 permalink: /why-i-left-science
 original_post_id:

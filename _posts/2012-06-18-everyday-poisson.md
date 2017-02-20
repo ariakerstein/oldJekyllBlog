@@ -3,7 +3,8 @@ id: 1285
 title: Everyday Poisson
 date: 2012-06-18T16:17:42+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=1285
 permalink: /everyday-poisson
 original_post_id:

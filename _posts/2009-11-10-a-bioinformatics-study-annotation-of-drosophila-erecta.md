@@ -3,7 +3,8 @@ id: 339
 title: 'A Bioinformatics Study &#8211; Annotation of Drosophila Erecta'
 date: 2009-11-10T19:38:14+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 <!-- guid: http://ariak.wordpress.com/?p=339 -->
 permalink: /A Bioinformatics Study &#8211; Annotation of Drosophila Erecta
 ks_metadata:

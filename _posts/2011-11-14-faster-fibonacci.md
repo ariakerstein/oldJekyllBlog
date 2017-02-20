@@ -3,7 +3,8 @@ id: 1868
 title: Fibonacci in Python
 date: 2011-11-14T21:45:51+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=1868
 permalink: /fibonacci-in-pythnon
 original_post_id:

@@ -3,7 +3,8 @@ id: 1804
 title: Interactive charts with the R Manipulate package
 date: 2012-02-02T17:16:37+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 <!-- guid: http://www.directedattention.com/?p=1804 -->
 permalink: /Interactive charts with the R Manipulate package
 original_post_id:

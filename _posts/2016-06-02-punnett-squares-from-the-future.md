@@ -3,7 +3,8 @@ id: 2436
 title: Punnett squares from the future
 date: 2016-06-02T05:05:59+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 <!-- guid: http://directedattention.com/?p=243 -->6
 permalink: /punnett-squares-from-the-future
 categories:

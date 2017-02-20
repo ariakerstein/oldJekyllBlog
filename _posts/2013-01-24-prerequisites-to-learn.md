@@ -3,7 +3,8 @@ id: 2026
 title: Prerequisites to Learn
 date: 2013-01-24T12:43:39+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=2026
 permalink: /prerequisites-to-learn
 original_post_id:
