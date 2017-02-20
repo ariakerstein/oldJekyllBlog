@@ -1,8 +1,17 @@
 ---
 layout: page
 title: About
-permalink: /_pages/about/
+permalink: /about/
 
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+<!-- 
 defaults:
   # _posts
   - scope:
@@ -14,7 +23,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: true -->
 ---
 
 My name is Ari &#8211; thanks for visiting.
