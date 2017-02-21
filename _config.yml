@@ -105,8 +105,8 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
-
+  goodreads        : "https://www.goodreads.com/user/show/59584576-ari-akerstein"
+  strava           : "https://www.strava.com/athletes/6974948"
 # Reading Files
 
 include: ["_pages"]
