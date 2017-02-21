@@ -6,7 +6,7 @@ author: arisamuel
 type: posts
 layout: single
 guid: http://www.diffusionreactor.com/?p=878
-permalink: /?p=878
+permalink: /?using-r-ppc-analysis
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'

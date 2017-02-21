@@ -6,7 +6,7 @@ author: arisamuel
 type: posts
 layout: single
 <!-- guid: http://www.directedattention.com/?p=1804 -->
-permalink: /Interactive charts with the R Manipulate package
+permalink: /Interactive-charts-with-R-Manipulate-package
 original_post_id:
   - "1804"
 categories:

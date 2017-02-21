@@ -6,7 +6,7 @@ author: arisamuel
 type: posts
 layout: single
 guid: http://www.directedattention.com/?p=1868
-permalink: /fibonacci-in-pythnon
+permalink: /fibonacci-in-python
 original_post_id:
   - "1868"
 categories:
