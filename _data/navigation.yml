@@ -18,6 +18,10 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Distraqt"
+    url: /distraqt/
+  - title: "CoreWheels"
+    url: /corewheels/
   # - title: "Posts"
   #   url: /year-archive/
   # - title: "Categories"
