@@ -3,7 +3,8 @@ id: 80
 title: the CIM race report
 date: 2006-12-11T09:30:44+00:00
 <!-- author: arisamuel -->
-<!-- layout: single -->
+type: posts
+layout: single
 <!-- guid: http://ariak.wordpress.com/2006/12/11/the-cim-race-report/ -->
 permalink: /the-cim-race-report/
 gwo4wp:

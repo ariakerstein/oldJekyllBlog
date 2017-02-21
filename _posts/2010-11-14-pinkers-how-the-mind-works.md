@@ -3,7 +3,8 @@ id: 653
 title: 'Pinker&#8217;s &#8216;How the mind works&#8217;'
 date: 2010-11-14T07:32:47+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=653
 permalink: /how-the-mind-works-pinker
 ks_metadata:

@@ -3,9 +3,10 @@ id: 489
 title: The joys of fulfillment!
 date: 2010-04-01T23:41:52+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://ariak.wordpress.com/?p=489
-permalink: /?p=489
+permalink: /joys-of-fulfillment
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
 original_post_id:

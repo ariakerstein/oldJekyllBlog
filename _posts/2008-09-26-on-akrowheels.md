@@ -3,7 +3,8 @@ id: 134
 title: Akrowheels, the new DR Spot
 date: 2008-09-26T10:32:43+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 <!-- guid: http://ariak.wordpress.com/?p=134 -->
 permalink: /Akrowheels-the-new-DR-Spot
 gwo4wp:

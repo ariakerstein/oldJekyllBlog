@@ -3,7 +3,8 @@ id: 622
 title: the long conversation
 date: 2010-10-17T17:51:44+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=622
 permalink: /long-conversation
 ks_metadata:

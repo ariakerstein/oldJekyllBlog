@@ -3,7 +3,8 @@ id: 1524
 title: Python script to loop over a list
 date: 2011-03-13T16:34:20+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=1524
 permalink: /python-script-loop-over-a-list
 original_post_id:

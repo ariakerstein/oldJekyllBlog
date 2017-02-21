@@ -3,7 +3,8 @@ id: 730
 title: the ultimate currency
 date: 2011-04-08T04:31:29+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=730
 permalink: /the-ultimate-currency/
 ks_metadata:

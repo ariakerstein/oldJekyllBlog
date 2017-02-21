@@ -3,7 +3,8 @@ id: 692
 title: Meme-volution
 date: 2010-12-24T18:46:31+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=692
 permalink: /meme-volution/
 ks_metadata:

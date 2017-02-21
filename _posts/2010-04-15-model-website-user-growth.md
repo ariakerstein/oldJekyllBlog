@@ -3,9 +3,10 @@ id: 1876
 title: Modeling website user growth
 date: 2010-04-15T13:57:10+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=1876
-permalink: /?p=1876
+permalink: /modeling-website-user-growth
 original_post_id:
   - "1876"
 categories:

@@ -3,7 +3,8 @@ id: 1560
 title: 'Python script: list lookup'
 date: 2011-04-18T06:10:18+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=1560
 permalink: /python-script-list-lookup/
 original_post_id:

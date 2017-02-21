@@ -1,18 +1,17 @@
 ---
-
 defaults:
   # _posts
   - scope:
- <!--      path: "" -->
+      path: ""
       type: posts
     values:
       layout: single
       author_profile: true
       read_time: true
-<!--       comments: true -->
+      comments: true
       share: true
-<!--       related: true -->
-      
+      related: true
+
 id: 408
 title: "Notes on Ferguson's The War of the World"
 date: 2009-12-30T02:03:36+00:00

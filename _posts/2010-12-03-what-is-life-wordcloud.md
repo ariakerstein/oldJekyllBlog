@@ -3,7 +3,8 @@ id: 673
 title: 'what is life &#8211; wordcloud'
 date: 2010-12-03T14:37:32+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=673
 permalink: /what-is-life-wordcloud/
 ks_metadata:

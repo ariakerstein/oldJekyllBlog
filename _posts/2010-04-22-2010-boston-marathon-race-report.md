@@ -3,9 +3,10 @@ id: 974
 title: 2010 Boston Marathon Race Report
 date: 2010-04-22T07:52:30+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=974
-permalink: /?p=974
+permalink: /2010-boston-marathon-race-report
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
 ks_metadata:

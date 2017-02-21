@@ -3,7 +3,8 @@ id: 706
 title: 'Seth Godin&#8217;s List to Generate Traffic to your blog'
 date: 2011-01-25T23:49:20+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.diffusionreactor.com/?p=706
 permalink: /seth-godin-list-to-generate-traffic
 ks_metadata:

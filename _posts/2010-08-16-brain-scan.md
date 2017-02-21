@@ -3,7 +3,8 @@ id: 592
 title: brain scan
 date: 2010-08-16T21:57:57+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://ariak.wordpress.com/?p=592
 permalink: /brain-scan
 kdc_metadata:

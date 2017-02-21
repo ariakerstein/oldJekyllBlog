@@ -3,7 +3,8 @@ id: 1492
 title: 'How Google &amp; Facebook use R'
 date: 2009-10-11T14:52:13+00:00
 author: arisamuel
-layout: post
+type: posts
+layout: single
 guid: http://www.directedattention.com/?p=1492
 permalink: /How Google &amp; Facebook use R'
 original_post_id:
