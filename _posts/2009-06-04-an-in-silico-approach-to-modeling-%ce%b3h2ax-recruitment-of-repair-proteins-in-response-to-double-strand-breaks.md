@@ -6,7 +6,7 @@ author: arisamuel
 type: posts
 layout: single
 guid: http://www.diffusionreactor.com/?p=957
-permalink: /?p=957
+permalink: /in-silico-modeling-gamma-h2ax-repair-proteins-dna-damage
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
   - 'a:4:{s:7:"enabled";s:0:"";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'

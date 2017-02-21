@@ -1,12 +1,12 @@
 ---
 id: 339
-title: 'A Bioinformatics Study &#8211; Annotation of Drosophila Erecta'
+title: 'A Bioinformatics Study - Annotation of Drosophila Erecta'
 date: 2009-11-10T19:38:14+00:00
 author: arisamuel
 type: posts
 layout: single
 <!-- guid: http://ariak.wordpress.com/?p=339 -->
-permalink: /A Bioinformatics Study &#8211; Annotation of Drosophila Erecta
+permalink: /A-Bioinformatics-Study-Annotation-of-Drosophila-Erecta
 ks_metadata:
   - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:52:"gene,dere,fig,genes,dmel,predicted,drosophila,cg7140";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:150:"gene location and sizes. Furthermore, three putative genes were predicted with varying degrees of evidence. But despite the general similarity in gene";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
 kdc_metadata:

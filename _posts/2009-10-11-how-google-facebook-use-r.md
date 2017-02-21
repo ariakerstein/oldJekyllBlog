@@ -6,7 +6,7 @@ author: arisamuel
 type: posts
 layout: single
 guid: http://www.directedattention.com/?p=1492
-permalink: /How Google &amp; Facebook use R'
+permalink: /How-Google-Facebook-use-R'
 original_post_id:
   - "1492"
 categories:
