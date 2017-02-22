@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Virtues of Doing Less
 type: posts
 layout: single
