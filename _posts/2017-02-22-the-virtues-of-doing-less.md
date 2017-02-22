@@ -1,6 +1,11 @@
 ---
 layout: post
 title: The Virtues of Doing Less
+type: posts
+layout: single
+tags: Life hacking
+permalink: /virtues-of-doing-less
+categories: Product Management
 ---
 
 As an aggressive type-A, sometimes with a chip on your shoulder the tendency is to do more. But the secret to success is sometimes to do less. Why? 3 reasons:

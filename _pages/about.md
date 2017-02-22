@@ -8,7 +8,7 @@ type: pages
 author_profile: true
 ---
 
-My name is Ari &#8211; thanks for visiting.
+Hello and welcome to my homepage. Here's where I attempt to consolidate my various interests and endeavors. I'm obsessed with the question of how we can use technology to build great things and improve the world and take as inspiration the Jewish idea of sin; less an explicit transgression against the maker, and more the opportunity cost of not having done something better with one's time. Our actions ripple through the universe in ways we will never comprehend so not doing something great leaves this void of a lost potential future. Hope you enjoy your visit.
 
 <!-- ![Ari headshot]({{ site.url }}/images/arihead.jpg) -->
 
