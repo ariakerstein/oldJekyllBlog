@@ -22,6 +22,23 @@ main:
     url: /distraqt/
   - title: "Corewheels"
     url: /corewheels/
+  # - title: "Resume"
+  #   url: /resume/
+
+
+projects:
+  - title: Portfolio Projects
+    children:
+      - title: "About"
+        url: /docs/structure/
+      - title: "Advising"
+        url: /docs/advising/
+      - title: "Incredible labs"
+        url: /docs/incredible-labs/
+      - title: "research"
+        url: /docs/resaerch/
+
+
   # - title: "Posts"
   #   url: /year-archive/
   # - title: "Categories"

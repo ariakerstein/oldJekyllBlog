@@ -6,6 +6,10 @@ path: /_pages/corewheels
 type: pages
 <!-- layout: post -->
 author_profile: true
+sidebar:
+<!--   - title: "Corewheels" -->
+    image: /assets/images/hero_corewheelmainmedium.jpg
+    image_alt: "corewheels"
 ---
 
 <iframe width="460" height="270" src="https://www.youtube.com/embed/R24SJQlZVLE" frameborder="0" allowfullscreen></iframe>

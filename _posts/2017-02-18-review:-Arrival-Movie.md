@@ -1,5 +1,6 @@
 ---
-  layout: post
+  type: posts
+  layout: single
   title: Arrival Movie Review
   tags: 
   categories: 
@@ -17,7 +18,7 @@ the notion of language as non-linear. Sound does seem so clunky when you think a
 the importance of memories with those we love. 
 </li>
 <li>
-Q: If you could see your life start to finish, would you change anything?
+Ask: If you could see your life start to finish, would you change anything?
 </li>
 <li>
 the importance of doing what we are meant to do and living authentically
