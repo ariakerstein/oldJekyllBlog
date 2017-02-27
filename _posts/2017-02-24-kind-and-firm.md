@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Should I be kind?
+title: Kind+Firm
 type: posts
 tags: 
-permalink: /should-I-be-kind
+permalink: /kind-and-firm
 categories: teachable-moments, fatherhood
 ---
 
