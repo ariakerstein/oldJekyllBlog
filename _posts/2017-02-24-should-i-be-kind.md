@@ -4,7 +4,7 @@ title: Should I be kind?
 type: posts
 tags: 
 permalink: /should-I-be-kind
-categories: teachable moments, fatherhood
+categories: teachable-moments, fatherhood
 ---
 
 I've been taking a parenting class based on [Positive discipline](https://www.amazon.com/dp/B004QWZJI6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). The book offers real insights into parenting so I highly recommend it. But what I found myself stuck on was some language - kindness. They advocate balancing kind and firm. Thinking more about it I realize that kindness is sort of a squishy word. But kindness and firmness actually feel like they contradict. 
