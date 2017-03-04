@@ -22,6 +22,8 @@ main:
     url: /distraqt/
   - title: "Corewheels"
     url: /corewheels/
+  - title: "Categories"
+    url: /categories/
   # - title: "Resume"
   #   url: /resume/
 

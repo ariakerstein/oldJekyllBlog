@@ -11,7 +11,6 @@ original_post_id:
   - "2200"
 categories:
   - fatherhood
-  - Uncategorized
 ---
 We have a long way to go and I plan to enjoy all of it. What a privilege it is to be your father.
 
