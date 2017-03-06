@@ -4,7 +4,6 @@ title: Distraqt (in beta)
 permalink: /distraqt/
 path: /_pages/Distraqt
 type: pages
-<!-- layout: post -->
 author_profile: true
 ---
 **Organizing the world's attention.**

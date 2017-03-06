@@ -20,8 +20,8 @@ main:
     url: /about/
   - title: "Distraqt"
     url: /distraqt/
-  - title: "Corewheels"
-    url: /corewheels/
+  # - title: "Corewheels"
+  #   url: /corewheels/
   - title: "Categories"
     url: /categories/
   # - title: "Resume"
